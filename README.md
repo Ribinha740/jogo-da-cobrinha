@@ -1,2 +1,2 @@
 # jogo-da-cobrinha
- Repósitorio feito onde criei o jogo da cobrinha utilizando as tecnológias html, css e javascript
+ Repositório feito onde criei o jogo da cobrinha utilizando as tecnologias html, css e javascript
